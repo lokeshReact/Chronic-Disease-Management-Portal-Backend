@@ -1,0 +1,4 @@
+[
+    {"id": 1, "name":"Sathiya", "age": 30, "patient_id":1, "address":"Chennai"},
+    {"id": 2, "name":"Sathiya", "age": 30, "patient_id":2, "address":"Chennai"}
+     ]
